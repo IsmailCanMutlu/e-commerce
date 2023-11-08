@@ -13,7 +13,6 @@ With this eCommerce Website project you can do the following things:
 
 This project run by İsmail Can Mutlu and Osman Tunahan İNCİRKUŞ. 
 
-- [@IsmailCanMutlu](https://github.com/IsmailCanMutlu)
 - [@osmantunahanincirkus](https://github.com/osmantunahanincirkus)
 
 ## License
